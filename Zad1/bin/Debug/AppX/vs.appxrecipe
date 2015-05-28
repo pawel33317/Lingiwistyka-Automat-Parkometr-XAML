@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LATITUDE</Machine>
+    <WindowsUser>Paweł</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>25251a58-c8db-4258-8d63-b3d0608237f9</PackageIdentityName>
+    <IntermediateOutputPath>D:\Szkoła\Lingwistyka\lab3\Zad3\Zadanie3_PawelCzubak\Zad1\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1D50AA096F5859EAD66D878EDED78BA59D7B0600A908E5D086F9B2214D784F95</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>25251a58-c8db-4258-8d63-b3d0608237f9_1.0.0.0_neutral__2x6xnak0cvg5w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>25251a58-c8db-4258-8d63-b3d0608237f9_2x6xnak0cvg5w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>25251a58-c8db-4258-8d63-b3d0608237f9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Paweł</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Szkoła\Lingwistyka\lab3\Zad3\Zadanie3_PawelCzubak\Zad1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-10T12:01:13.915</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Szkoła\Lingwistyka\lab3\Zad3\Zadanie3_PawelCzubak\Zad1\bin\Debug\Zad1.exe">
+      <PackagePath>Zad1.exe</PackagePath>
+      <Modified>2015-05-10T12:01:13.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Lingwistyka\lab3\Zad3\Zadanie3_PawelCzubak\Zad1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T07:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Lingwistyka\lab3\Zad3\Zadanie3_PawelCzubak\Zad1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T07:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Lingwistyka\lab3\Zad3\Zadanie3_PawelCzubak\Zad1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T07:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Lingwistyka\lab3\Zad3\Zadanie3_PawelCzubak\Zad1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T07:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Lingwistyka\lab3\Zad3\Zadanie3_PawelCzubak\Zad1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-02T12:05:17.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Lingwistyka\lab3\Zad3\Zadanie3_PawelCzubak\Zad1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-10T11:59:59.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Lingwistyka\lab3\Zad3\Zadanie3_PawelCzubak\Zad1\bin\Debug\Zad1.xr.xml">
+      <PackagePath>Zad1.xr.xml</PackagePath>
+      <Modified>2015-05-02T12:05:17.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Lingwistyka\lab3\Zad3\Zadanie3_PawelCzubak\Zad1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-10T12:01:13.804</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
